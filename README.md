@@ -10,4 +10,5 @@ Function to review if a test set is representative of a dataset using a Random F
 
 
 ### 3. Hypothesis Test for Comparing Two Proportions
-Script created to use in the article "Demystifying Statistical Significance" (soon to be published).
+Script created to use in the article "Demystifying Statistical Significance":
+<b>https://www.kdnuggets.com/2020/07/demystifying-statistical-significance.html</b>
